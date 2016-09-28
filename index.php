@@ -1,4 +1,4 @@
-<?php
+<!--
 
 /*
  * (C) Ashish Saxena <ashish@reak.in>
@@ -9,6 +9,7 @@
  * All rights related to distribution, modifcation, reselling, use for commercial or private use of this code is terminated.
  *
  */
+ -->
 
 <html>
 	<head><title>Internal Tool - Accounting Dept.</title></head>
@@ -30,9 +31,5 @@
 <input type="submit" value="Convert Now !"/>
 </form>
 
-<center>
-	<hr>
-	<h5>In case of any failure or issues, Please consider emailing at ashish[at]reak.in or leaving a message on +91.9407339761 or a BBM Message on 2BE24CBA</h5>
-</center>
 </body>
 </html>
